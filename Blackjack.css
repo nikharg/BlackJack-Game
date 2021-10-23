@@ -3,7 +3,7 @@ h1{
     color: goldenrod;
 }
 body{
-    background-image: url(./learn-javascript-main/table.png);
+    background-image: url(./table.png);
     background-size: cover;
     display: flex;
     flex-direction: column;
